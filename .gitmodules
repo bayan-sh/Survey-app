@@ -1,0 +1,3 @@
+[submodule "survey-app--template"]
+	path = survey-app--template
+	url = https://github.com/bayan-sh/Surveyapp.git
